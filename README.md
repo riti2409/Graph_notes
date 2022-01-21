@@ -1,2 +1,8 @@
 # Graph_notes
-Graph-Notes
+Notes on "Graphs"
+
+- GitHub Repo : 
+
+- Source : 
+
+- PDF(of notes): 
